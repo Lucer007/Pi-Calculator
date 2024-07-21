@@ -1,4 +1,4 @@
-# Simple Pi-Calculator
+# Pi-Calculator
 
 ## Version History
 
